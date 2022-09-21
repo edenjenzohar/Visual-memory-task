@@ -1,6 +1,13 @@
 # Pilot 1 - Visual memory test
-1) all images : the final images for the pilot - 60 target + 180 (3*60) distractor images 
-2) csv files : the csv for the test and encoding for all 30 subjects 
-3) demo : the right/left arrow images , demo csv files , demo flower images 
-4) docs : the experiment instructions (docx + pptx) and Pvlovia manual 
-5) index.html + .psyexp file + .js file : the experiment pavlovia files 
+This repo is devided into three main stages:
+1) Evaluation:
+* Creating a sub-dataset of images from a large dataset of images.
+* Creating the experiment setup csv files for subjects for both RDM setup and basic setup.
+2) Task:
+* The pavlovia js and bulider code for the online task 
+* The chosen images for the pilot 
+* The csv files of the experiment setup 
+* The demo stimuli and csv files 
+3) analysis: 
+* Basic analysis of the pilot results 
+
