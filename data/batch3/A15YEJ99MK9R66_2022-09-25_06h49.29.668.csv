@@ -1,0 +1,14 @@
+﻿button.numClicks,button.timesOn,button.timesOff,workID,Age,Gender,Hours slept (last night),date,expName,psychopyVersion,OS,frameRate,space_key_responce.keys,space_key_responce.rt,demo_encoding_response.keys,demo_encoding_response.corr,demo_encoding_loop.thisRepN,demo_encoding_loop.thisTrialN,demo_encoding_loop.thisN,demo_encoding_loop.thisIndex,demo_encoding_loop.ran,DemoImage,DemoCorrect,demo_test_response.keys,demo_test_response.corr,demo_test_response.rt,demo_test_loop.thisRepN,demo_test_loop.thisTrialN,demo_test_loop.thisN,demo_test_loop.thisIndex,demo_test_loop.ran,DemoImage1,DemoImage2,DemoCorrectTest
+1,[2.4505999999046395],[2.4505999999046395],A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,,,,,,,,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,,,,,,,,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,space,11.4586,,,,,,,,,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,,,,,,,,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,1,0,0,0,0,1,flower1.jpg,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,1,0,1,1,1,1,flower2.jpg,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,0,0,2,2,2,1,left.jpg,left,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,1,0,3,3,3,1,flower3.jpg,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,1,0,4,4,4,1,flower4.jpg,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,1,0,5,5,5,1,flower5.jpg,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,1,0,6,6,6,1,flower6.jpg,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,,,,,,,,,,,,,,,,,,,
+,,,A15YEJ99MK9R66,58,female,6,2022-09-25_06h49.29.668,memory_pilot_most_recent,2022.2.4,Win32,10.75187889,,,,,,,,,,,,right,0,7.3203,0,0,0,0,1,flower1.jpg,flower1_pair.jpg,left
