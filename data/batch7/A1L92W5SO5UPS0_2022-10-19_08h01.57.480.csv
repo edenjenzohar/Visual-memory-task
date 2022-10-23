@@ -1,0 +1,7 @@
+﻿button.numClicks,button.timesOn,button.timesOff,workID,Age,Gender,Hours slept (last night),date,expName,psychopyVersion,OS,frameRate,space_key_responce.keys,space_key_responce.rt,demo_encoding_response.keys,demo_encoding_response.corr,demo_encoding_loop.thisRepN,demo_encoding_loop.thisTrialN,demo_encoding_loop.thisN,demo_encoding_loop.thisIndex,demo_encoding_loop.ran,DemoImage,DemoCorrect
+1,[16.019900000095376],[16.019900000095376],A1L92W5SO5UPS0,45,Male,8,2022-10-19_08h01.57.480,memory_pilot_most_recent,2022.2.4,Win32,10.75245694,,,,,,,,,,,
+,,,A1L92W5SO5UPS0,45,Male,8,2022-10-19_08h01.57.480,memory_pilot_most_recent,2022.2.4,Win32,10.75245694,,,,,,,,,,,
+,,,A1L92W5SO5UPS0,45,Male,8,2022-10-19_08h01.57.480,memory_pilot_most_recent,2022.2.4,Win32,10.75245694,space,1.5454,,,,,,,,,
+,,,A1L92W5SO5UPS0,45,Male,8,2022-10-19_08h01.57.480,memory_pilot_most_recent,2022.2.4,Win32,10.75245694,,,,,,,,,,,
+,,,A1L92W5SO5UPS0,45,Male,8,2022-10-19_08h01.57.480,memory_pilot_most_recent,2022.2.4,Win32,10.75245694,,,,1,0,0,0,0,1,flower1.jpg,
+,,,A1L92W5SO5UPS0,45,Male,8,2022-10-19_08h01.57.480,memory_pilot_most_recent,2022.2.4,Win32,10.75245694,,,,1,0,1,1,1,1,flower2.jpg,
