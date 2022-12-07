@@ -2,3 +2,4 @@
 *.pickle
 similarity_fungi_all.csv
 DF20_300/
+DF20_300_filtered/
